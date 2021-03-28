@@ -1,1 +1,2 @@
-# basics_of_programming_from_python
+# python_lessons
+Ushbu repositorydaga "Python_dasturlash_asoslari" mashqlar javobi yuklandi
